@@ -1,0 +1,8 @@
+PAGINA PRINCIPAL: http://localhost:8080/MarcenariaCRUD/index.jsp
+
+PAGINA ADICIONAR: http://localhost:8080/MarcenariaCRUD/adicionarProduto.jsp
+
+PAGINA DE LISTAR: http://localhost:8080/MarcenariaCRUD/listarProdutos.jsp
+
+PAGINA DE EDITAR: http://localhost:8080/MarcenariaCRUD/editarProduto.jsp?id=25
+
